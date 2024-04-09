@@ -63,7 +63,7 @@
                 {
                     "name": "forward",
                     "id": "d5873e0c-7d1d-45dd-8500-4d3bfa374c5c",
-                    "path": "",
+                    "path": "<Keyboard>/d",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -74,7 +74,7 @@
                 {
                     "name": "backward",
                     "id": "26770d91-f57b-4d9e-9636-b5566d393976",
-                    "path": "",
+                    "path": "<Keyboard>/a",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

@@ -7,10 +7,10 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] private Rigidbody myRBD;
     [SerializeField] private float velocityModifier = 5f;
-
+    [SerializeField] private float life = 10f;
 
     // Start is called before the first frame update
-     void Start()
+    void Start()
     {
         if (myRBD == null)
         {
